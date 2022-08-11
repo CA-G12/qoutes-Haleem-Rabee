@@ -1,0 +1,31 @@
+{
+  "name": "qoutes-haleem-rabee",
+  "version": "1.0.0",
+  "description": "Our Week 4 Project",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CA-G12/qoutes-Haleem-Rabee.git"
+  },
+  "keywords": [
+    "quotes",
+    "project",
+    "gsg",
+    "week4"
+  ],
+  "author": "Rabee,Abd-AlHaleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CA-G12/qoutes-Haleem-Rabee/issues"
+  },
+  "homepage": "https://github.com/CA-G12/qoutes-Haleem-Rabee#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
