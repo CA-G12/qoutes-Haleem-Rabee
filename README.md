@@ -24,6 +24,6 @@ find it [Here.](https://zenquotes.io/)
 ## :link: Live Website
 You are welcome to try out this cool app yourself by visiting the website [Here.](https://www.heroku.com/)
 
-## :technologist: Team
+## :computer: Team
 - [Rabee Albhaisi](https://github.com/Rabee96)
 - [Abdelhaleem Elderawi](https://github.com/Abdelhaleem99)
