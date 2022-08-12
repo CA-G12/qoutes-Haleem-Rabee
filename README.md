@@ -18,8 +18,8 @@ QUOTES APP is a simple application that generates quotes from you favourite auth
 
 ## :truck: API Used
 
-### ZenQuotes 
-find it [Here.](https://zenquotes.io/)
+### Go Quotes API
+find it [Here.](https://goquotes.docs.apiary.io/)
 
 ## :link: Live Website
 You are welcome to try out this cool app yourself by visiting the website [Here.](https://www.heroku.com/)
